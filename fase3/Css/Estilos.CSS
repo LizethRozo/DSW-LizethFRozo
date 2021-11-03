@@ -1,0 +1,21 @@
+header{
+    background-color: darkgrey;
+}
+nav{
+    background-color: lightgrey;
+}
+section{
+    background-color: rgb(183, 216, 236);
+    grid-column: 1/4;
+}
+aside{
+    background-color: rgb(163, 180, 201) ;
+    grid-column: 4/5;
+}
+footer{
+    background-color: rgb(154, 180, 180);
+}
+main{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
