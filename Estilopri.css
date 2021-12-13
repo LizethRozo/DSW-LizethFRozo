@@ -1,0 +1,42 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    background: black;   
+    background-size: cover;
+    background-position: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    background: #000000;
+    color: white;
+    height: 100px;
+    margin: 0px;
+    width: 100%;
+    text-align: center;
+    line-height: 100px;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+h3{
+    text-align: center;
+    color: white;
+}
+p{
+    text-align: center;
+    color: white;
+}
+a.sin {
+    background-color:green;
+  color:#fff;
+  padding: 8px;
+  text-decoration:none; }
+
+a.otro {
+  background-color:green;
+  color:#fff;
+  padding: 8px;
+  text-decoration:none;
+}
